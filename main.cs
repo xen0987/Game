@@ -12,6 +12,7 @@ using namespace std;
 int main()
 {
 	int mas[10];
+	int a;
 	mas[0]=1;
 	cout<<mas;
 	
