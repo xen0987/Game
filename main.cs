@@ -12,7 +12,7 @@ using namespace std;
 int main()
 {
 	int mas[10];
-	int a;
+	int a,b;
 	mas[0]=1;
 	cout<<mas;
 	
